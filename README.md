@@ -1,5 +1,3 @@
-Project 1
-
 Team members
 1
 Riya Rajeshkumar Jain
@@ -15,12 +13,21 @@ Aadit Bagga
 801317907
 
 
-Communication Plan:- We are using github for communication and for the project repository. The link for the repository is stated below.
+Communication Plan:- We are using GitHub for communication and for the project repository. The link to the repository is stated below.
 
 Project Repository:-  https://github.com/rjain02/Big-Data-Shipping-Project
 
-Business problem:- https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/7-supply-chain/
+Business problem:- 
+Kaggle Link: Diabetes 130 US hospitals for years 1999-2008 | Kaggle
+Link to original data source: UCI Machine Learning Repository: Diabetes 130-US hospitals for years 1999-2008 Data Set
 
-Data set and prediction:- We are using a data set of all delivered shipments with estimated time shipping priority, carrier, and origin. They are trying to predict how much time it will be taken to deliver a shipment.
 
-Research objectives:- Research objectives are estimated time, priority, where to ship from which origin, which carrier is used. From these given objectives they will make a tentative shipment day.
+Dataset:- We are using a data set of hospital visits at 130 unique hospitals over the course of 10 years (1999-2008) in which diabetes was the diagnosis or cause for a hospital visit. The length of stay for these patients was at least one day and less than two weeks.
+
+Research objectives:- Research objectives will include the following:
+Correlation of hospital readmissions and which hospital was visited
+Correlation between race, gender, and age and hospital readmissions
+Correlation between race, gender, and age of diabetes diagnosis
+What factors are the strongest predictors that a person will be readmitted in the future
+Which hospitals are most effective in their treatment of diabetes patients
+Correlation between any other common symptoms of diabetes diagnosis/patients.
