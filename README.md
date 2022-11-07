@@ -40,3 +40,11 @@ Data Preparation
 
 ![image](https://user-images.githubusercontent.com/91394443/200417082-89e3bcdd-8d30-49dd-89dd-cbacecacd282.png)
 
+•	We then Checked the shape of our data (101,766 rows and 50 columns) and checked what data type each value/column represented.
+•	The next part was figuring out which data was incomplete or irrelevant. We used a simple code to count the number of instances in each column that had missing data, which was represented in the dataset as a "?"
+•	We also used the describe function to get a better understanding of each column as a whole.
+•	Next we dropped rows that were missing data in the "race", and all of the diagnosis columns.
+
+![Exploring Data Project](https://user-images.githubusercontent.com/91394443/200417293-4fe23337-e6a1-49f2-836a-92c5f9e2551f.png)
+
+•	This is how our data was prepared to be ready for visualization. More data manipulation might be required if issues arise in the future.
