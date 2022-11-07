@@ -86,3 +86,7 @@ The graph below shows the correlation of patients and their age, along with whet
 The last visualization we executed was to see how long most patients stayed in the hospital when they were admitted for diabetes. The most common length of time in the hospital was 3 days with the next most common being only 2 days. This is a good sign as these patients are receiving quick and quality care and not in serious condition having to stay in the hospital for an extended amount of time.
 
 ![image](https://user-images.githubusercontent.com/91394443/200418141-78ab613d-e44a-4e0a-a5cf-39c71e327463.png)
+
+<h2>Dashboard</h2>
+Below are the graphs we used for the dashboard. Due to cost limitations, the dashboard cannot be exported. These graphs then take you to a more in depth analysis such as the gender or race visualizations as showin in the visualizations section. 
+![DashboardPDF](https://user-images.githubusercontent.com/91394443/200423723-2c23d0a8-6114-4ae6-a340-88d2383d7601.png)
