@@ -31,3 +31,12 @@ Correlation between race, gender, and age of diabetes diagnosis
 What factors are the strongest predictors that a person will be readmitted in the future
 Which hospitals are most effective in their treatment of diabetes patients
 Correlation between any other common symptoms of diabetes diagnosis/patients.
+
+Data Preparation
+•	To begin our data preparation, we created an S3 bucket and uploaded our dataset. A screenshot of the bucket and data in it is below. 
+![image](https://user-images.githubusercontent.com/91394443/200417027-10b6838a-2c85-42a5-b494-cf6243720b4c.png)
+
+•	We then used amazon Sage Maker to import all of the libraries and load the dataset for our initial data preparation, as shown below.
+
+![image](https://user-images.githubusercontent.com/91394443/200417082-89e3bcdd-8d30-49dd-89dd-cbacecacd282.png)
+
