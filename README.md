@@ -1,18 +1,13 @@
 <h1>DELIVERABLE 1</h1>
 
 <h2>Team members</h2>
-1
-Riya Rajeshkumar Jain
-801254411
-2
-Chris Overcash
-800939915
-3
-Aditya Nitinbhai Thakkar
-801272248
-4
-Aadit Bagga
-801317907
+Riya Rajeshkumar Jain 801254411
+
+Chris Overcash 800939915
+
+Aditya Nitinbhai Thakkar 801272248
+
+Aadit Bagga 801317907
 
 
 <h2>Communication Plan</h2>
