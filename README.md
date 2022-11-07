@@ -31,4 +31,4 @@ Correlation between race, gender, and age of diabetes diagnosis
 What factors are the strongest predictors that a person will be readmitted in the future
 Which hospitals are most effective in their treatment of diabetes patients
 Correlation between any other common symptoms of diabetes diagnosis/patients.
-[a link] https://github.com/rjain02/Big-Data-Shipping-Project/blob/main/Data%20Preparation%20for%20Project.pdf
+[README] https://github.com/rjain02/Big-Data-Shipping-Project/blob/main/Data%20Preparation%20for%20Project.pdf
