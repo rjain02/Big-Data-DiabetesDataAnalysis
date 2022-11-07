@@ -2,11 +2,8 @@
 
 <h2>Team members</h2>
 Riya Rajeshkumar Jain 801254411
-
 Chris Overcash 800939915
-
 Aditya Nitinbhai Thakkar 801272248
-
 Aadit Bagga 801317907
 
 
