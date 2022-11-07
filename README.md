@@ -66,3 +66,18 @@ Below is another visualization we executed which shows the length of time that p
 
 ![image](https://user-images.githubusercontent.com/91394443/200417915-8e8d34af-ff40-4069-ad53-9d223b983177.png)
 
+The visualization below shows the correlation between a patients race and their diagnosis of diabetes. As the graph represents, a vast majority of diabetic patients were Caucasian, (greater than any other race by about 50,000 patients).
+
+![image](https://user-images.githubusercontent.com/91394443/200417990-84a52f94-9734-4c42-8876-6e0a03abede4.png)
+
+The same thing was done in the graph below but instead of comparing the correlation between races, we compared the gender of the patients. While more patients were female, this comparison was much closer than the race graph above. The number of female patients were 54,708 while the number of male patients was 47,055 with only one patient with an invalid answer.
+
+![image](https://user-images.githubusercontent.com/91394443/200418029-ce73ae58-d3b2-4ea8-a17b-350f76165cf1.png)
+
+The graph below shows the correlation of patients and their age, along with whether they were readmitted or not. Most patients who were diagnosed were aged 50 years old or older. The highest concentration of patients was in the 70- to 80-year-old range. The highest number of readmitted patients was also in the 70- to 80-year-old range.
+
+![image](https://user-images.githubusercontent.com/91394443/200418099-fbd29017-56a5-4fc3-a1c9-a912ab76095c.png)
+
+The last visualization we executed was to see how long most patients stayed in the hospital when they were admitted for diabetes. The most common length of time in the hospital was 3 days with the next most common being only 2 days. This is a good sign as these patients are receiving quick and quality care and not in serious condition having to stay in the hospital for an extended amount of time.
+
+![image](https://user-images.githubusercontent.com/91394443/200418141-78ab613d-e44a-4e0a-a5cf-39c71e327463.png)
