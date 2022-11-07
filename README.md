@@ -89,4 +89,5 @@ The last visualization we executed was to see how long most patients stayed in t
 
 <h2>Dashboard</h2>
 Below are the graphs we used for the dashboard. Due to cost limitations, the dashboard cannot be exported. These graphs then take you to a more in depth analysis such as the gender or race visualizations as showin in the visualizations section. 
+
 ![DashboardPDF](https://user-images.githubusercontent.com/91394443/200423723-2c23d0a8-6114-4ae6-a340-88d2383d7601.png)
