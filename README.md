@@ -91,3 +91,18 @@ The last visualization we executed was to see how long most patients stayed in t
 Below are the graphs we used for the dashboard. Due to cost limitations, the dashboard cannot be exported. These graphs then take you to a more in depth analysis such as the gender or race visualizations as showin in the visualizations section. 
 
 ![DashboardPDF](https://user-images.githubusercontent.com/91394443/200423723-2c23d0a8-6114-4ae6-a340-88d2383d7601.png)
+
+Another version of a dashboard we created was using Amazon Glue so that you can see an overview of what each column contains. There is a total correlations part, a box plot for each column, and a summary of each column and the data contained there. Because of this instance being private, this cannot be shared but the screenshots below give a good visualization of what it looks like in Amazon Glue.
+
+![Amazon Glue Column Statistics](https://user-images.githubusercontent.com/91394443/200427601-c61da7e9-e890-464c-ba0d-06c92e96e379.png)
+
+![Amazon Glue overviewp1](https://user-images.githubusercontent.com/91394443/200427519-ffcda80f-051a-4085-968d-615ea13a730b.png)
+
+![AmazonGluep2](https://user-images.githubusercontent.com/91394443/200427559-4f9ed3ae-02f4-4f58-90e7-30bd87f87030.png)
+
+![Amazon Glue p3](https://user-images.githubusercontent.com/91394443/200427583-d42152f0-972e-44d4-8901-3a279d2a54e5.png)
+
+
+
+
+![Amazon Glue overviewp1](https://user-images.githubusercontent.com/91394443/200427391-1800fcd0-5575-4188-a3c7-d005448e30a1.png)
