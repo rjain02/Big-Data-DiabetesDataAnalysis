@@ -1,4 +1,5 @@
 #DELIVERABLE 1
+
 Team members
 1
 Riya Rajeshkumar Jain
@@ -34,6 +35,7 @@ Which hospitals are most effective in their treatment of diabetes patients
 Correlation between any other common symptoms of diabetes diagnosis/patients.
 
 Data Preparation
+
 •	To begin our data preparation, we created an S3 bucket and uploaded our dataset. A screenshot of the bucket and data in it is below. 
 ![image](https://user-images.githubusercontent.com/91394443/200417027-10b6838a-2c85-42a5-b494-cf6243720b4c.png)
 
