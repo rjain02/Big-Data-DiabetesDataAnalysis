@@ -101,8 +101,3 @@ Another version of a dashboard we created was using Amazon Glue so that you can 
 ![AmazonGluep2](https://user-images.githubusercontent.com/91394443/200427559-4f9ed3ae-02f4-4f58-90e7-30bd87f87030.png)
 
 ![Amazon Glue p3](https://user-images.githubusercontent.com/91394443/200427583-d42152f0-972e-44d4-8901-3a279d2a54e5.png)
-
-
-
-
-![Amazon Glue overviewp1](https://user-images.githubusercontent.com/91394443/200427391-1800fcd0-5575-4188-a3c7-d005448e30a1.png)
