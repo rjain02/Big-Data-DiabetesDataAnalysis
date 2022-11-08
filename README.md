@@ -56,6 +56,16 @@ Correlation between any other common symptoms of diabetes diagnosis/patients.
 
 <h2>Exploratory Data Analysis</h2>
 
+The first thing we did to analyze the data was we created an analysis using Amazon Glue so that you can see an overview of what each column contains. There is a total correlations part, a box plot for each column, and a summary of each column and the data contained there. Because of this instance being private, this cannot be shared but the screenshots below give a good visualization of what it looks like in Amazon Glue.
+
+![Amazon Glue Column Statistics](https://user-images.githubusercontent.com/91394443/200427601-c61da7e9-e890-464c-ba0d-06c92e96e379.png)
+
+![Amazon Glue overviewp1](https://user-images.githubusercontent.com/91394443/200427519-ffcda80f-051a-4085-968d-615ea13a730b.png)
+
+![AmazonGluep2](https://user-images.githubusercontent.com/91394443/200427559-4f9ed3ae-02f4-4f58-90e7-30bd87f87030.png)
+
+![Amazon Glue p3](https://user-images.githubusercontent.com/91394443/200427583-d42152f0-972e-44d4-8901-3a279d2a54e5.png)
+
 Below is the first visualization we performed. The graph below represents the number of medications of each patient and how many days they were in the hospital. There is not much of a correlation between the number of medications a patient was taking and how long their hospital stay was.
 
 ![image](https://user-images.githubusercontent.com/91394443/200417812-1a7303ad-1dc8-4300-9ba5-af04160be420.png)
@@ -83,16 +93,9 @@ The last visualization we executed was to see how long most patients stayed in t
 ![image](https://user-images.githubusercontent.com/91394443/200418141-78ab613d-e44a-4e0a-a5cf-39c71e327463.png)
 
 <h2>Dashboard</h2>
-Below are the graphs we used for the dashboard. Due to cost limitations, the dashboard cannot be exported. These graphs then take you to a more in depth analysis such as the gender or race visualizations as showin in the visualizations section. 
 
-![DashboardPDF](https://user-images.githubusercontent.com/91394443/200423723-2c23d0a8-6114-4ae6-a340-88d2383d7601.png)
+Below are the graphs we used for the dashboard. This was created using Amazon Quicksight. Due to cost limitations, the dashboard cannot be exported. These graphs give a great overview of what we are trying to analyze, the correlations between age, gender and race and diabetes diagnosis/hospital readmissions. A screenshot of our Quicksight dashboard is shown in the screenshot below.
 
-Another version of a dashboard we created was using Amazon Glue so that you can see an overview of what each column contains. There is a total correlations part, a box plot for each column, and a summary of each column and the data contained there. Because of this instance being private, this cannot be shared but the screenshots below give a good visualization of what it looks like in Amazon Glue.
+![Quicksight Dashboard](https://user-images.githubusercontent.com/91394443/200450619-34da1e71-6b66-4360-9854-e886aabb3c04.png)
 
-![Amazon Glue Column Statistics](https://user-images.githubusercontent.com/91394443/200427601-c61da7e9-e890-464c-ba0d-06c92e96e379.png)
 
-![Amazon Glue overviewp1](https://user-images.githubusercontent.com/91394443/200427519-ffcda80f-051a-4085-968d-615ea13a730b.png)
-
-![AmazonGluep2](https://user-images.githubusercontent.com/91394443/200427559-4f9ed3ae-02f4-4f58-90e7-30bd87f87030.png)
-
-![Amazon Glue p3](https://user-images.githubusercontent.com/91394443/200427583-d42152f0-972e-44d4-8901-3a279d2a54e5.png)
