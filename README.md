@@ -27,11 +27,15 @@ Link - https://www.kaggle.com/datasets/brandao/diabetes?select=diabetic_data.csv
 <h2>Research objectives</h2>
 
 Research objectives will include the following:
+
 Correlation of hospital readmissions and which hospital was visited
+
 Correlation between race, gender, and age and hospital readmissions
+
 Correlation between race, gender, and age of diabetes diagnosis
+
 What factors are the strongest predictors that a person will be readmitted in the future
-Which hospitals are most effective in their treatment of diabetes patients
+
 Correlation between any other common symptoms of diabetes diagnosis/patients.
 
 <h1>DELIVERABLE 2</h1>
