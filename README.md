@@ -102,7 +102,25 @@ Below are the graphs we used for the dashboard. This was created using Amazon Qu
 
 ![Quicksight Dashboard](https://user-images.githubusercontent.com/91394443/200450619-34da1e71-6b66-4360-9854-e886aabb3c04.png)
 
+<h1>DELIVERABLE 3</h1>
+
 <h2>Results</h2>
 
-![image]
+Below Are the result of the ML model
+
+<h3>Logistic Regression</h3>
+
 ![Screen Shot 2022-12-11 at 12 18 30 AM](https://user-images.githubusercontent.com/50045937/206887789-56fa3b0a-bbfe-42e9-b6ee-3c23aeeb537a.png)
+![Screen Shot 2022-12-11 at 12 22 37 AM](https://user-images.githubusercontent.com/50045937/206887901-b355147d-c7c5-48ed-8bfd-dcc46e135165.png)
+• We have user Logistics regression to train our data and to make ML Models and then we did Random Forest Classifier.
+
+<h3>Random Forest Classifier</h3>
+
+![Screen Shot 2022-12-11 at 12 24 02 AM](https://user-images.githubusercontent.com/50045937/206887932-b0945d60-6e1d-4389-9def-0101b3972fd4.png)
+![Screen Shot 2022-12-11 at 12 25 56 AM](https://user-images.githubusercontent.com/50045937/206887969-8377f2f4-6e5c-4128-9673-9c003ebd6206.png)
+
+
+<h3>Super Vector Machine</h3>
+
+![Screen Shot 2022-12-11 at 12 27 06 AM](https://user-images.githubusercontent.com/50045937/206887995-956b50a3-3feb-4482-bbae-3076d7369f8e.png)
+![Screen Shot 2022-12-11 at 12 27 42 AM](https://user-images.githubusercontent.com/50045937/206888014-e1f5fd54-ed28-42d4-b81e-7fb71daf3b93.png)
