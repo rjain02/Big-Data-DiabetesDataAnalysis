@@ -104,3 +104,5 @@ Below are the graphs we used for the dashboard. This was created using Amazon Qu
 
 <h2>Results</h2>
 
+![image]
+![Screen Shot 2022-12-11 at 12 18 30 AM](https://user-images.githubusercontent.com/50045937/206887789-56fa3b0a-bbfe-42e9-b6ee-3c23aeeb537a.png)
