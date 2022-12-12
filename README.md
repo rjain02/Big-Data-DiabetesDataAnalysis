@@ -110,23 +110,21 @@ Below Are the result of the ML model
 
 <h3>Logistic Regression</h3>
 
-In the below Image there is a predictable model for the Logistic regression model. In this model we ate comparing both datas for readmitted. There is a comparison graph for the predicted data and actual data. That show the comparison between how much readmision happned or not with predicted and actual data. But this is less acturate.
+A predicted model for the logistic regression is shown in the image below. We are comparing both data sets for readmission in this model. The predicted data and actual data are compared on a graph. that compare the amount of readmission that occurred or did not based on predicted and actual data. However, this is less accurate.
 
 ![Screen Shot 2022-12-11 at 12 18 30 AM](https://user-images.githubusercontent.com/50045937/206887789-56fa3b0a-bbfe-42e9-b6ee-3c23aeeb537a.png)
 ![Screen Shot 2022-12-11 at 12 29 33 AM](https://user-images.githubusercontent.com/50045937/206888058-474b0550-7f40-4e6f-a35f-36c4a1ffddc8.png)
 
-• We have user Logistics regression to train our data and to make ML Models and then we did Random Forest Classifier.
-
 <h3>Random Forest Classifier</h3>
 
-Here we are using Random Forest Classifier to predict the data. In this model we ate comparing both datas for readmitted. There is a comparison graph for the predicted data and actual data. That show the comparison between how much readmision happned or not with predicted and actual data. This is more accurate than the Logistic Regression model.
+Here we are using Random Forest Classifier to predict the data. In this model we are comparing both datas for readmitted. There is a comparison graph for the predicted data and actual data. That show the comparison between how much readmision happened or not with predicted and actual data. This is more accurate than the Logistic Regression model.
 
 ![Screen Shot 2022-12-11 at 12 24 02 AM](https://user-images.githubusercontent.com/50045937/206887932-b0945d60-6e1d-4389-9def-0101b3972fd4.png)
 ![Screen Shot 2022-12-11 at 12 30 33 AM](https://user-images.githubusercontent.com/50045937/206888077-e8218a52-db16-4d89-a0f5-575494b82f91.png)
 
 <h3>Super Vector Machine</h3>
 
-Here we are using another model called Super vector Machine. In this model we are comparing both datas for readmitted. There is a comparison graph for the predicted data and actual data. That show the comparison between how much readmision happned or not with predicted and actual data. This model is also as acurate as the Random Forest Classifier. We can compare result for the both and they are almost same.
+Here we are using another model called Super vector Machine. In this model we are comparing both datas for readmitted. There is a comparison graph for the predicted data and actual data. That show the comparison between how much readmision happened or not with predicted and actual data. This model is also as acurate as the Random Forest Classifier. We can compare result for the both and they are almost same.
 
 ![Screen Shot 2022-12-11 at 12 27 06 AM](https://user-images.githubusercontent.com/50045937/206887995-956b50a3-3feb-4482-bbae-3076d7369f8e.png)
 ![Screen Shot 2022-12-11 at 12 31 12 AM](https://user-images.githubusercontent.com/50045937/206888096-43e30ce8-dbeb-4654-b262-40e0384d5a77.png)
