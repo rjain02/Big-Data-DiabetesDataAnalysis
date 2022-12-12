@@ -135,7 +135,11 @@ This project has brought great insight into diabetes diagnoses and the possibili
 
 <h4>Instructions for using this project</h4>
 1.	Download the dataset to your computer from Kaggle (Link is above).
+
 2.	Clone the repository or copy each cell block into a Jupiter notebook.
+
 3.	Run the entire notebook to prepare the data.
+
 4.	Copy the code for the Machine Learning section and run it on AWS Sagemaker
+
 5.	Observe the results and draw your own conclusions.
