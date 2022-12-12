@@ -126,7 +126,7 @@ Here we are using Random Forest Classifier to predict the data. In this model we
 
 <h3>Super Vector Machine</h3>
 
-Here we are using another model called Super vector Machine. In this model we ate comparing both datas for readmitted. There is a comparison graph for the predicted data and actual data. That show the comparison between how much readmision happned or not with predicted and actual data. This model is also as acurate as the Random Forest Classifier. We can compare result for the both and they are almost same.
+Here we are using another model called Super vector Machine. In this model we are comparing both datas for readmitted. There is a comparison graph for the predicted data and actual data. That show the comparison between how much readmision happned or not with predicted and actual data. This model is also as acurate as the Random Forest Classifier. We can compare result for the both and they are almost same.
 
 ![Screen Shot 2022-12-11 at 12 27 06 AM](https://user-images.githubusercontent.com/50045937/206887995-956b50a3-3feb-4482-bbae-3076d7369f8e.png)
 ![Screen Shot 2022-12-11 at 12 31 12 AM](https://user-images.githubusercontent.com/50045937/206888096-43e30ce8-dbeb-4654-b262-40e0384d5a77.png)
