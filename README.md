@@ -128,3 +128,14 @@ Here we are using another model called Super vector Machine. In this model we ar
 
 ![Screen Shot 2022-12-11 at 12 27 06 AM](https://user-images.githubusercontent.com/50045937/206887995-956b50a3-3feb-4482-bbae-3076d7369f8e.png)
 ![Screen Shot 2022-12-11 at 12 31 12 AM](https://user-images.githubusercontent.com/50045937/206888096-43e30ce8-dbeb-4654-b262-40e0384d5a77.png)
+
+
+<h3>Future Work</h3>
+This project has brought great insight into diabetes diagnoses and the possibility of readmission based upon several different factors. We did have to do a bit of data cleaning in the beginning when we were preparing the data. We removed columns that were missing most of their data and removed rows that had “NaN” values on selected columns. We created a few new features including a Jupyter notebook in Amazon Sagemaker to analyze the data, a dashboard in Amazon Quicksight, and using Amazon ML tools, completed the machine learning part for further analyzation of the dataset. In the future, we would love to combine this data with data from the past five years (especially since COVID) just to explore the effects of the pandemic and hospitalizations regarding diabetes. 
+
+<h4>Instructions for using this project</h4>
+1.	Download the dataset to your computer from Kaggle (Link is above).
+2.	Clone the repository or copy each cell block into a Jupiter notebook.
+3.	Run the entire notebook to prepare the data.
+4.	Copy the code for the Machine Learning section and run it on AWS Sagemaker
+5.	Observe the results and draw your own conclusions.
