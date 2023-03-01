@@ -102,6 +102,10 @@ Below are the graphs we used for the dashboard. This was created using Amazon Qu
 
 ![Quicksight Dashboard](https://user-images.githubusercontent.com/91394443/200450619-34da1e71-6b66-4360-9854-e886aabb3c04.png)
 
+We also created a dashboard using Tableau for an easier overview of everythiong we have analyzed.
+
+![Tableau For Diabetes](https://user-images.githubusercontent.com/91394443/222280147-027b3bca-cc6a-4af5-9729-8e5975f4489c.jpg)
+
 <h1>DELIVERABLE 3</h1>
 
 <h2>ML Model, Evaluation, Optimization, Results</h2>
